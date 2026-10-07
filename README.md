@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,60:141414,100:b8913a&height=180&section=header&text=Leandro%20Teodoro&fontColor=f2f1ed&fontSize=46&fontAlignY=38&desc=Construindo%20o%20caminho%20at%C3%A9%20Engenheiro%20de%20IA&descAlignY=60&descSize=16" width="100%" alt="Leandro Teodoro"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,60:141414,100:b8913a&height=180&section=header&text=Leandro%20Teodoro&fontColor=f2f1ed&fontSize=46&fontAlignY=38&desc=Conectar%20ideias%20que%20parecem%20distantes%20%C3%A9%20onde%20as%20melhores%20solu%C3%A7%C3%B5es%20aparecem.&descAlignY=60&descSize=14" width="100%" alt="Leandro Teodoro"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=E2C275&center=true&vCenter=true&width=560&lines=Futuro+Engenheiro+de+IA;Estudante+na+Unisagrado+(2024-2028);Membro+da+LOT+%C2%B7+equipe+bootstrapping;Python+%C2%B7+FastAPI+%C2%B7+React" alt="Typing SVG" />
 
