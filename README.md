@@ -76,6 +76,9 @@ Web e design
 ![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=flat-square&logo=sqlite&logoColor=E2C275)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=E2C275)
 
+**IA**<br/>
+![Claude](https://img.shields.io/badge/Claude-0a0a0a?style=flat-square&logo=claude&logoColor=E2C275)
+
 **DevOps e cloud**<br/>
 ![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=E2C275)
 ![Render](https://img.shields.io/badge/Render-0a0a0a?style=flat-square&logo=render&logoColor=E2C275)
