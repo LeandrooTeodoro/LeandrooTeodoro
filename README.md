@@ -17,25 +17,15 @@
 
 ## Sobre mim
 
-Desenvolvedor em formação e membro da **LOT**, uma equipe bootstrapping que constrói produtos com inteligência artificial para empresas, educação e saúde mental.
+Desenvolvedor em formação e membro da **LOT**, uma equipe bootstrapping que constrói produtos com inteligência artificial.
 
-Quero construir inteligências artificiais que resolvem problemas reais de pessoas e empresas. Na LOT já aplico isso na prática: um ERP inteligente, uma plataforma de orientação para jovens e uma IA de escuta acolhedora. Cada projeto me aproxima da Engenharia de IA.
+Quero construir inteligências artificiais que resolvem problemas reais de pessoas e empresas. Na LOT já aplico isso na prática, criando produtos de verdade com a equipe. Cada projeto me aproxima da Engenharia de IA.
 
 | | |
 |---|---|
 | **Agora** | Graduação na Unisagrado e produtos da LOT |
 | **2028** | Conclusão da graduação na Unisagrado |
 | **Meta** | Engenheiro de IA criando sistemas inteligentes em escala |
-
----
-
-## Projetos da LOT
-
-| Projeto | O que é | Status |
-|---|---|---|
-| **Flow Enterprise** | ERP/SaaS inteligente e personalizável para empresas de diversos segmentos. | ![Em desenvolvimento](https://img.shields.io/badge/em%20desenvolvimento-141414?style=flat-square&labelColor=141414&color=B8913A) |
-| **IESP** · Instituto Educacional Shirley Santos Pimentel | Plataforma educacional para ajudar jovens a descobrir interesses, profissões e caminhos para o futuro. | ![Em desenvolvimento](https://img.shields.io/badge/em%20desenvolvimento-141414?style=flat-square&labelColor=141414&color=B8913A) |
-| **STMJ** · Santa Terezinha do Menino Jesus | IA gratuita de escuta acolhedora e prevenção do suicídio. | ![Em desenvolvimento](https://img.shields.io/badge/em%20desenvolvimento-141414?style=flat-square&labelColor=141414&color=B8913A) |
 
 ---
 
@@ -98,7 +88,7 @@ Web e design
 | **2022** | **Primeiras linhas em Python.** Comecei a programar com as aulas de Python do Gustavo Guanabara, no canal Curso em Vídeo. |
 | **2023** | **Sistemas de Informação na FGP.** Aprendi lógica de programação, banco de dados, SQL, HTML, CSS e Figma. |
 | **2024** | **Unisagrado.** Tranquei a FGP para entrar na Unisagrado, onde sigo até hoje, com conclusão prevista para 2028. |
-| **2026** | **Foco em Engenharia de IA.** Concentro meus estudos na Engenharia de IA e aplico o que aprendo no Flow, no IESP e no STMJ com a LOT. |
+| **2026** | **Foco em Engenharia de IA.** Concentro meus estudos na Engenharia de IA e aplico o que aprendo nos projetos da LOT. |
 
 ---
 
